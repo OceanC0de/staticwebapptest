@@ -1,1 +1,1 @@
-# staticwebapptest
+# staticwebapptestnpm run dev
