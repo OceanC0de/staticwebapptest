@@ -18,11 +18,11 @@
 			</picture>
 		</span>
 
-		to your new<br />SvelteKit app
+		Hi Laura<br />this is me
 	</h1>
 
 	<h2>
-		try editing <strong>src/routes/+page.svelte</strong>
+		and by the way Laura look at that button <strong>src/routes/+page.svelte</strong>
 	</h2>
 
 	<Counter />
