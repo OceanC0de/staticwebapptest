@@ -18,11 +18,11 @@
 			</picture>
 		</span>
 
-		Hi Laura<br />this is me
+		Moin zusammen<br />erster Website Versuch mit Svelte und nicht React
 	</h1>
 
 	<h2>
-		and by the way Laura look at that button <strong>src/routes/+page.svelte</strong>
+		check out this button right here <strong>with the fancy animation</strong>
 	</h2>
 
 	<Counter />
