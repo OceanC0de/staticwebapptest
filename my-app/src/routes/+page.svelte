@@ -18,7 +18,7 @@
 			</picture>
 		</span>
 
-		Moin zusammen<br />erster Website Versuch mit Svelte und nicht React
+		Doppel Moin zusammen<br />erster Website Versuch mit Svelte und nicht React
 	</h1>
 
 	<h2>
